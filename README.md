@@ -1,25 +1,18 @@
-# Halve  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
+![gridster preview](/img/gridster_preview.jpg)
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+## Multimedia
+If we had to choose one word to describe Gridster that would be it. Gridster is a theme that focusses on multimedia. It contains different post types to create video posts, audio posts, image post or gallery posts with ease. We created a ton of Variables, that make customization super easy.
 
-To learn how to install and use this theme check out the [installation guide](https://taylantatli.github.io/Halve/halve-theme/) for more information.
+This theme is powerful and it comes with a few extras. It also comes with a lot of different layouts for you and in pretty material design.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+## Features
+The theme comes with a grunt file, which means that working with it is super easy. We have Tasks that compile, concatenate, minify and even deploy to your site.
 
-## Preview   
-![screenshot of Halve](/images/halve-home-image.png)
+### Extensive Documentation
+We don't believe in delivering Code without explanation. So we wrote an extensive Documentation for Twister that goes over every single step from installing all of the dependencies to explaining how to customize, create posts and publish. We even tell you how you can host Twister with Plugins on GitHub pages.
 
-See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
+Check the [Docs](http://gridster.digitalmind.ch/documentation/) out.
 
-# Credits
-- Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
-- Sample Posts and some code examples: [Michael Rose](https://github.com/mmistakes/)
-- Images: [Unsplash](https://unsplash.com/) and [Lorem Pixel](http://lorempixel.com)
-
-### Others
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
+### Feedback, Wishes, Problems
+If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
+If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
