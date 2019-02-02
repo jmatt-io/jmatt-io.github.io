@@ -1,51 +1,25 @@
-# Zetsu
+# Halve  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+  
+## `Sorry guys but there will be no update until I buy a new laptop.`
 
-> **Zetsu** - is a clean theme for Jekyll :smirk:
+This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
+To learn how to install and use this theme check out the [installation guide](https://taylantatli.github.io/Halve/halve-theme/) for more information.
 
+If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
 
-> :warning:
-  This theme requires ruby and rubygems installed
+## Preview   
+![screenshot of Halve](/images/halve-home-image.png)
 
-* [x] Clean layout
-* [x] Resposive layout
-* [x] Preprocessor SASS
-* [x] CSS minified
-* [x] HTML minified
-* [x] Pagination
-* [x] Syntax highlight
-* [x] Author config
-* [x] Social links
-* [x] Share posts
-* [x] Comments with Disqus
+See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
 
----
+# Credits
+- Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
+- Sample Posts and some code examples: [Michael Rose](https://github.com/mmistakes/)
+- Images: [Unsplash](https://unsplash.com/) and [Lorem Pixel](http://lorempixel.com)
 
-### Start in 4 steps
-
-1. Download or clone repo `git clone git@github.com:nandomoreirame/zetsu.git`
-2. Enter the folder: `cd zetsu/`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `jekyll serve`
-
-Access, [localhost:4000/zetsu](http://localhost:4000/zetsu/)
-
-### Deploy in Github pages in 2 steps
-
-1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
-2. Run `rake site:publish` for build and publish on Github
-
-[Demo](https://nandomoreirame.github.io/zetsu/)
-
-![Zetsu - free Jekyll theme](/screenshot.png)
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
-
-> :warning:
-  Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `_layouts/default.html`
-
-Enjoy :yum:
+### Others
+- [Jekyll](http://jekyllrb.com/)
+- [jQuery](http://jquery.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
